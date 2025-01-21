@@ -1,0 +1,10 @@
+Here's a brief explanation of the imported modules and libraries:
+
+1. sqlite3:   A module for interacting with SQLite databases.
+2. pandas:    A powerful library for data manipulation and analysis.
+3. ccxt:      A library for accessing and interacting with cryptocurrency exchange APIs.
+4. pandas_ta: A library that extends Pandas with technical analysis indicators.
+5. os:        A module for interacting with the operating system.
+6. pytest:    A framework for writing and running unit tests in Python.
+
+Each of these libraries plays a critical role in building, analyzing, and ensuring the reliability of the cryptocurrency trading system.
